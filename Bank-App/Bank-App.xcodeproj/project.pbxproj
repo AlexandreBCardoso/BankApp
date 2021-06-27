@@ -18,7 +18,6 @@
 		BC8F1C492688BB73006AC0AB /* CodeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8F1C482688BB73006AC0AB /* CodeView.swift */; };
 		BC8F1C4D2688C1AA006AC0AB /* GridBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8F1C4C2688C1AA006AC0AB /* GridBoxView.swift */; };
 		BC8F1C572688C6C2006AC0AB /* Bank_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8F1C562688C6C2006AC0AB /* Bank_AppTests.swift */; };
-		BC8F1C682688C7A2006AC0AB /* GridBoxViewSpec.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC8F1C672688C7A2006AC0AB /* GridBoxViewSpec.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		BC8F1C542688C6C2006AC0AB /* Bank-AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Bank-AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC8F1C562688C6C2006AC0AB /* Bank_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bank_AppTests.swift; sourceTree = "<group>"; };
 		BC8F1C582688C6C2006AC0AB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		BC8F1C672688C7A2006AC0AB /* GridBoxViewSpec.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBoxViewSpec.swift; sourceTree = "<group>"; };
 		F9010F2CF9160421B82BCBBC /* Pods_Bank_AppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Bank_AppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -135,7 +133,6 @@
 			children = (
 				BC8F1C562688C6C2006AC0AB /* Bank_AppTests.swift */,
 				BC8F1C582688C6C2006AC0AB /* Info.plist */,
-				BC8F1C672688C7A2006AC0AB /* GridBoxViewSpec.swift */,
 			);
 			path = "Bank-AppTests";
 			sourceTree = "<group>";
@@ -320,7 +317,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC8F1C572688C6C2006AC0AB /* Bank_AppTests.swift in Sources */,
-				BC8F1C682688C7A2006AC0AB /* GridBoxViewSpec.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
