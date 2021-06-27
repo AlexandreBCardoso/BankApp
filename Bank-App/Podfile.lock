@@ -1,0 +1,30 @@
+PODS:
+  - iOSSnapshotTestCase (6.2.0):
+    - iOSSnapshotTestCase/SwiftSupport (= 6.2.0)
+  - iOSSnapshotTestCase/Core (6.2.0)
+  - iOSSnapshotTestCase/SwiftSupport (6.2.0):
+    - iOSSnapshotTestCase/Core
+  - Nimble (9.2.0)
+  - Nimble-Snapshots (9.1.1):
+    - Nimble-Snapshots/Core (= 9.1.1)
+  - Nimble-Snapshots/Core (9.1.1):
+    - iOSSnapshotTestCase (~> 6.0)
+    - Nimble
+
+DEPENDENCIES:
+  - Nimble-Snapshots (~> 9.1)
+
+SPEC REPOS:
+  trunk:
+    - iOSSnapshotTestCase
+    - Nimble
+    - Nimble-Snapshots
+
+SPEC CHECKSUMS:
+  iOSSnapshotTestCase: 9ab44cb5aa62b84d31847f40680112e15ec579a6
+  Nimble: 4f4a345c80b503b3ea13606a4f98405974ee4d0b
+  Nimble-Snapshots: 881d47f238c5462f38ffcccb1747b17c633b2c18
+
+PODFILE CHECKSUM: c833057a39670c31282072e3c23ad77016c41afa
+
+COCOAPODS: 1.10.1
