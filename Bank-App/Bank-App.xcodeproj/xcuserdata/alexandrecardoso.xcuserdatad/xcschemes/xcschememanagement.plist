@@ -6,8 +6,23 @@
 	<dict>
 		<key>Bank-App.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
-			<integer>5</integer>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BC8F1C252688AFA1006AC0AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BC8F1C532688C6C2006AC0AB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

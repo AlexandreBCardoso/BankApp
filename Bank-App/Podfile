@@ -10,9 +10,9 @@ target 'Bank-App' do
   target 'Bank-AppTests' do
     inherit! :search_paths
     # Pods for testing
-	pod 'Nimble-Snapshots', '~> 9.1'
 	pod 'Nimble', '~> 9.2'
 	pod 'Quick', '~> 4.0'
+	pod 'Nimble-Snapshots', '~> 9.1'
   end
 
 end
